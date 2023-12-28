@@ -1,0 +1,22 @@
+{
+  "name": "yourmanager-template",
+  "version": "1.0.0",
+  "description": "Initial project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": ""
+  },
+  "author": {
+    "name": "strikebu77",
+    "email": "strikebu77@gmail.com",
+    "url": "https://github.com/strikebu77"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "yourmanager": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
